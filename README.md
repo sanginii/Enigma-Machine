@@ -12,3 +12,5 @@ Before you can use the keyboard section of the machine, you need to configure th
 2. **Plugboard Connections:** In the lower section of the machine, you can make the required connections by clicking on the plugs to connect letters.
 
 Once the settings are applied, you can start typing and experience how the encryption worked in the past.
+
+Link:  https://sanginii.github.io/Enigma-Machine/
